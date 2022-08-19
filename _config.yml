@@ -56,7 +56,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "akjames@usc.edu"
+      url: "mailto:akjames@usc.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/alexkjames"
