@@ -5,7 +5,7 @@ title: About
 
 excerpt: "This post should [...]"
 header:
-  image: ./assets/images/website_header.jpeg
+  image: ./assets/images/website_header_small.jpeg
   caption: Leigh Lake in Jackson Hole, Wyoming
 
 author_profile : True
