@@ -15,9 +15,9 @@ feature_row:
 feature_row2:
   - image_path: ./assets/images/bifurcation_diagram.png
     alt: 'Bifurcation Diagram'
-    title: 'Ammonite'
-    excerpt: 'Ammonite is a python package designed for the non-linear timeseries analysis of paleoclimate data. It is an offshoot of the Pyleoclim python package.'
-    url: "https://github.com/alexkjames/Ammonite"
+    title: 'Ammonyte'
+    excerpt: 'Ammonyte is a python package designed for the non-linear timeseries analysis of paleoclimate data. It is an offshoot of the Pyleoclim python package.'
+    url: "https://github.com/alexkjames/Ammonyte"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
