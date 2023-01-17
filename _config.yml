@@ -51,7 +51,7 @@ defaults:
 
 author:
   name        : "Alexander James"
-  bio         : "PhD Student at the University of Southern California."
+  bio         : "PhD Candidate at the University of Southern California."
   avatar      : "./assets/images/headshot.png"
   links:
     - label: "Email"
