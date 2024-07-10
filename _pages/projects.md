@@ -24,9 +24,9 @@ feature_row2:
 feature_row3:
   - image_path: ./assets/images/event.png
     alt: 'Event Series'
-    title: 'Paleoclimate Event Taxonomy'
-    excerpt: 'The paleoclimate event taxonomy is a collection of paleoclimate timeseries with labelled events.'
-    url: "https://github.com/alexkjames/Paleoclimate_Event_Taxonomy"
+    title: 'Paleobeasts'
+    excerpt: 'The Paleobeasts Python package is a bestiary of minimal paleoclimate models and the scars that taphonomy carves on their hides'
+    url: "https://github.com/LinkedEarth/PaleoBeasts"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
